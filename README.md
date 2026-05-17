@@ -51,21 +51,6 @@ Migração do banco de dados da plataforma para o Amazon RDS com configuração 
 | 🌐 Desempenho | Entrega de conteúdo mais rápida via CDN para usuários em qualquer região |
 | 🔁 Alta disponibilidade | Redundância automática com Multi-AZ e replicação de dados |
 
----
-
-## 📁 Estrutura do Repositório
-
-```
-📦 aws-abstergo-implementation
- ┣ 📄 README.md                          # Visão geral do projeto
- ┣ 📄 Relatorio_AWS_Abstergo.docx        # Relatório completo de implementação
- ┗ 📁 docs/
-    ┣ 📄 configuracao-ec2-autoscaling.md  # Manual EC2 + Auto Scaling
-    ┣ 📄 politica-ciclo-vida-s3.md        # Política de ciclo de vida S3
-    ┣ 📄 configuracao-rds-multiaz.md      # Configuração RDS Multi-AZ
-    ┣ 📄 comparativo-custos.xlsx          # Planilha de custos: antes vs. depois
-    ┗ 📄 diagrama-arquitetura.png         # Diagrama da solução implementada
-```
 
 ---
 
